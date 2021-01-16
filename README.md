@@ -20,6 +20,12 @@ Then: java Firm
 This will compile and trigger the 'driver program' of WorkFirm and should seamlessly display the employees personal information registered throughout the app.
 <br>
 Ta Da!
+<br>
+<br>
+Disclaimer: All 'personal information' in this app is falsified and is for demonstration purposes only.
+<br>
+![alt text](https://ibb.co/g9Hf8mH)
+<br>
 
 # Author
 Lena Martinson
