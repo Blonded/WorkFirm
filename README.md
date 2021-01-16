@@ -24,8 +24,7 @@ Ta Da!
 <br>
 Disclaimer: All 'personal information' in this app is falsified and is for demonstration purposes only.
 <br>
-![alt text](https://imgur.com/4j8URDK)
-<br>
+
 
 # Author
 Lena Martinson
