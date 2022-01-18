@@ -27,4 +27,4 @@ Disclaimer: All 'personal information' in this app is falsified and is for demon
 
 
 # Author
-Lena Martinson
+Lena - Blonded
